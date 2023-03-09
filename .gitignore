@@ -1,0 +1,10 @@
+.vscode
+.venv
+.vscode-test
+```
+config.py
+.env    
+cashflow.py
+cashflow.db
+data
+
